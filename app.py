@@ -31,7 +31,7 @@ user_proxy = autogen.UserProxyAgent(
 )
 
 task = """
-Write a python code to print even numbers between 1 to 100Too
+Write a python code to print even numbers between 1 to 100
 """
 
 user_proxy.initiate_chat(

@@ -1,1 +1,1 @@
-This Repo contains many
+This Repo contains many funtionalities

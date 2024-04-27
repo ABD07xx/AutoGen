@@ -1,0 +1,6 @@
+from qdrant_client import QdrantClient
+
+qdrant_client = QdrantClient(
+    url="https://476663d9-a978-4b06-b861-1e83efa6ace2.us-east4-0.gcp.cloud.qdrant.io:6333", 
+    api_key="J-vYZKgyVG24F3kfCnnj1nRNe31C9qPf3EgYOmRXuoGLrOFRHbQkWw",
+)
